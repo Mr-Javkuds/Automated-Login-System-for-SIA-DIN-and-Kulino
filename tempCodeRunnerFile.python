@@ -1,0 +1,8 @@
+# Menghitung Gaya Coulomb
+def gaya_coulomb(q1, q2, r):
+    k = 8.9875517873681764e9  # Konstanta Coulomb dalam N m²/C²
+    return k * (q1 * q2) / (r ** 2)
+q1 = 1e-6  # Muatan pertama dalam C
+q2 = 2e-6  # Muatan kedua dalam C
+r = 0.1  # Jarak antara muatan dalam m
+print("Gaya Coulomb antara muatan:", gaya_coulomb(q1, q2, r), "N")  
