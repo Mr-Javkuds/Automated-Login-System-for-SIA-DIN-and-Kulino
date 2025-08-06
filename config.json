@@ -1,11 +1,11 @@
 
 {
   "siadin": {
-    "nim": "A11.2025.16442",
-    "password": "y451nmaba"
+    "nim": "ISI_NIM_SIADIN_KAMU",
+    "password": "ISI_PASSWORD"
   },
   "kulino": {
-    "nim": "a112516442",
-    "password": "Y451nmaba"
+    "nim": "ISI_NIM_KULINO_KAMU",
+    "password": "ISI_PASSWORD"
   }
 }
